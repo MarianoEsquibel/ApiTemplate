@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Enums
 {
-    internal class Enums
+    public static class Enums
     {
+        public enum DummyEnum 
+        {
+            Value1,
+            value2,
+            value3
+        }
     }
 }

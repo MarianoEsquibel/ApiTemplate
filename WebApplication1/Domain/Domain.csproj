@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Entitys\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Domains Services\" />
     <Folder Include="Aggregators\" />
     <Folder Include="Validators\" />
   </ItemGroup>
